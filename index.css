@@ -1,0 +1,13 @@
+body{
+    background-color: antiquewhite;
+}
+.bordimg{
+ border-radius: 10px;
+ border: 6px solid black;
+ width: 250px;
+ height: 250px;
+}
+.pp
+{
+    font-size: 20px;
+}
